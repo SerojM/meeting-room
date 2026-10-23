@@ -72,4 +72,4 @@ Serve the `dist` directory from the site root over HTTPS, or on localhost. The s
 
 ## Time spent
 
-Replace this line with the actual time spent before submission.
+3 hours
